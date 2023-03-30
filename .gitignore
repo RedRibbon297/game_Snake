@@ -3,7 +3,7 @@
 *.iws
 
 target/
-src/GameSnake1/
+GameSnake1/*
 
 # Compiled class file
 *.class
